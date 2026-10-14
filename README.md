@@ -1,4 +1,4 @@
-# Crossy Parkside — Edition 04: Camera & Smooth Menus
+# Crossy Parkside — Version 1.0: Camera & Smooth Menus
 
 Новата версия обновява управлението с камера и изглажда менютата. Запазени са
 магазинът, шестте героя, способностите, монетите и препятствията. Настолна Python/Pygame игра
